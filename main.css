@@ -1,0 +1,12 @@
+#displayUsers{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+.user{
+    width: 30%;
+    border:1px solid black;
+    margin-bottom:10px
+
+}
